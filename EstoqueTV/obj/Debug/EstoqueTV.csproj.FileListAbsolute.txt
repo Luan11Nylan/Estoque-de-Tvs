@@ -1,0 +1,15 @@
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.csproj.AssemblyReference.cache
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.csproj.CoreCompileInputs.cache
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\bin\Debug\EstoqueTV.exe.config
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\bin\Debug\EstoqueTV.exe
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\bin\Debug\EstoqueTV.pdb
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.exe
+D:\Codigos C#\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\bin\Debug\EstoqueTV.exe.config
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\bin\Debug\EstoqueTV.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\bin\Debug\EstoqueTV.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.csproj.SuggestedBindingRedirects.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\UDEMY-EXERCICIOS.Nelio Alves\Ex3-EstoqueTV\EstoqueTV\EstoqueTV\obj\Debug\EstoqueTV.pdb
